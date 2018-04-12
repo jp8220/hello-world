@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi All,
+This JP from DFW wishing you a blessed day.
+Thanks!
+
